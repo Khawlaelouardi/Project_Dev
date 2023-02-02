@@ -6,6 +6,7 @@ Created on Wed Feb  1 14:09:51 2023
 """
 ################# Jeux de Pierre Papier Ciseau #################
 import random
+input("Hello world")
 
 #3joueur= str(input("Saisir le nom du joueur"))
 manches = int(input("Combien de manches voulez-vous jouer ? "))
